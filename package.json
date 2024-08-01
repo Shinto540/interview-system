@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "interview-system-frontend": "file:",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
